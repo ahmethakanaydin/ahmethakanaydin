@@ -3,7 +3,7 @@
 <h1>Merhaba Ben Ahmet 👋</h1>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydin-ahmet/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmethakanaydin/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmeethakann)
 [![Mail Badge](https://img.shields.io/badge/ahmet@hakanaydin.me-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ahmet@hakanaydin.me)](mailto:ahmet@hakanaydin.me)
 
